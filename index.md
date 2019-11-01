@@ -7,6 +7,6 @@ title: Home
 <br>
 **Facebook Group**: [facebook.com/groups/UKUAR/](https://www.facebook.com/groups/UKUAR/)
 
-**Mailing List**: [groups.io/g/ukuar](groups.io/g/ukuar)
+**Mailing List**: [groups.io/g/ukuar](https://groups.io/g/ukuar)
 
-**Wiki**: [github.com/ukuar/wiki/wiki](github.com/ukuar/wiki/wiki)
+**Wiki**: [github.com/ukuar/wiki/wiki](https://github.com/ukuar/wiki/wiki)

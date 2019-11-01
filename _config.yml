@@ -16,10 +16,10 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: WEBSITETITLE
-email: "EMAILADDRESS"
+title: UKUAR
+email: "ukuar@groups.io"
 description: >- # this means to ignore newlines until "baseurl:"
-  Peter Barnes
+  UK University Amateur Radio
 #baseurl: "" # the subpath of your site, e.g. /blog
 #url: "" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: jekyllrb
@@ -27,15 +27,9 @@ description: >- # this means to ignore newlines until "baseurl:"
 
 permalink: /:title
 
-repository: "pe5er/REPOSITORYNAME"
+repository: "ukuar/website"
 
 # Build settings
 plugins:
   - jekyll-feed
   - jekyll-sitemap
-
-# A list of the pages to display in the navigation bar
-header_pages:
-  - PAGENAME.md
-  - PAGENAME2.md
-

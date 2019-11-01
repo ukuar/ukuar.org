@@ -19,7 +19,7 @@
 title: UKUAR
 email: "ukuar@groups.io"
 description: >- # this means to ignore newlines until "baseurl:"
-  UK University Amateur Radio
+  UK University Amateur Radio. A Group to Help UK University Amateur Radio Societies to Collaborate, Share Resources, and Discuss Ideas
 #baseurl: "" # the subpath of your site, e.g. /blog
 #url: "" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: jekyllrb
@@ -27,7 +27,7 @@ description: >- # this means to ignore newlines until "baseurl:"
 
 permalink: /:title
 
-repository: "ukuar/website"
+repository: "ukuar/ukuar.org"
 
 # Build settings
 plugins:

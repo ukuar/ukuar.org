@@ -1,5 +1,6 @@
 ---
 title: Home
+layout: Page
 ---
 
 # A group to help UK University Amateur Radio Societies to collaborate, share resources, and discuss ideas

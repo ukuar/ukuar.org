@@ -8,7 +8,7 @@ title: Media
 <table>
   <tr>
     <th colspan="2"><img src="/media/logo.png" width="100%"/></th>
-    <th><a href="https://github.com/ukuar/ukuar.org/raw/master/media/logo.png" target="_blank">png</a> <a>svg</a></th>
+    <th><a href="https://github.com/ukuar/ukuar.org/raw/master/media/logo.png" target="_blank">png</a> <a href="https://rawcdn.githack.com/ukuar/ukuar.org/6a02f13da28e55cefa0e57ef17d8914a5ea48f88/media/logo.svg" target="_blank">svg</a></th>
   </tr>
   <tr>
     <th bgcolor="#C7102E"><a style="color:white" href="http://www.colorfavs.com/colors/C7102E/" target="_blank">#009FE3</a></th>

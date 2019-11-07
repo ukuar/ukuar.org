@@ -15,7 +15,7 @@ title: Media
     <th bgcolor="#03206C"><a style="color:white" href="http://www.colorfavs.com/colors/03206C/" target="_blank">#EA5B0C</a></th>
   </tr>
   <tr>
-    <th colspan="3">Font: <a style="color:white" href="https://fonts.google.com/specimen/Open+Sans?selection.family=Open+Sans" target="_blank">Google Open Sans</a></th>
+    <th colspan="3">Font: <a href="https://fonts.google.com/specimen/Open+Sans?selection.family=Open+Sans" target="_blank">Google Open Sans</a></th>
   </tr>
 </table>
 <br>

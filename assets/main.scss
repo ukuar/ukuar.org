@@ -93,3 +93,22 @@ margin-top: 5px;
 blockquote cite:before {
 content: "\2014 \2009";
 }
+
+
+table, th, td {
+border: 4px solid #e9ecef;	
+}
+
+th, td {
+  padding: 15px;
+  text-align: left;
+}
+
+table{
+  table-layout:fixed;
+  width: 40%;
+}
+
+td {
+  width:1px;white-space:nowrap;
+}

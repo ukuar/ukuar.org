@@ -21,6 +21,14 @@ title: Media
 </table>
 <br>
 
+<table>
+  <tr>
+    <th colspan="2"><img src="/media/fb-banner.png" width="100%"/></th>
+    <th><a href="https://github.com/ukuar/ukuar.org/raw/master/media/fb-banner.png" target="_blank">png</a> <a href="https://rawcdn.githack.com/ukuar/ukuar.org/36cb887d2a92ae9452b8258302d5a7d66b6d954f/media/fb-banner.svg" target="_blank">svg</a></th>
+  </tr>
+</table>
+<br>
+
 ## About UKUAR
 
 UK University Amateur Radio (UKUAR) is a student-led initiative to enable UK University Amateur Radio clus to collaborate and share resources and ideas.
